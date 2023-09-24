@@ -10,11 +10,11 @@ Email : javamogi@gmail.com
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![springsecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JPA-brightgreen)
+![Static Badge](https://img.shields.io/badge/Querydsl-%23632CA6)
 ![junit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JPA-brightgreen)
-![Static Badge](https://img.shields.io/badge/Querydsl-%23632CA6)
 
 **Database**
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
